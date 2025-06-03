@@ -15,7 +15,7 @@ import vertexai
 import os
 
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/content/llm-with-python-04a5bc6109dd.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = ""
 
 
 print("Service account JSON key file is set.")
